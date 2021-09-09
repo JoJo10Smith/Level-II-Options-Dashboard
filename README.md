@@ -22,4 +22,8 @@ Unfortunetely, my broker did not provide me with historical option prices unless
 
 **Option Greek Tracker**
 
-Lastly I decided to implement tracker for the option greeks (Delta, Gamma, Vega, Theta, and Rho). All of the option greeks were tracked live througout the day meaing that I could see the relationship between any of the greeks and the price of the underlying and vice versa to assist in my understanding of option pricing. I hope to next develop methods to estimate option premium using the saved data thougout a trading day.
+Lastly I decided to implement tracker for the option greeks (Delta, Gamma, Vega, Theta, and Rho). All of the option greeks were tracked live througout the day meaing that I could see the relationship between any of the greeks and the price of the underlying and vice versa to assist in my understanding of option pricing. I hope to next develop methods to estimate option premium using the saved data thougout a trading day. Below is an example image of the Delta of a QQQ option with a $381.0 strike expiring on September 10th. The data was captrured from market Open to 10:00 AM. 
+
+![Example Image of the Greek Tracker](https://github.com/JoJo10Smith/Level-II-Options-Dashboard/blob/main/Example%20Images/Delta.png)
+
+If there are any questions, please contact me at: jsmith58@bryant.edu
