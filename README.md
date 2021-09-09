@@ -23,5 +23,3 @@ Unfortunetely, my broker did not provide me with historical option prices unless
 **Option Greek Tracker**
 
 Lastly I decided to implement tracker for the option greeks (Delta, Gamma, Vega, Theta, and Rho). All of the option greeks were tracked live througout the day meaing that I could see the relationship between any of the greeks and the price of the underlying and vice versa to assist in my understanding of option pricing. I hope to next develop methods to estimate option premium using the saved data thougout a trading day.
-
-*INSERT IMAGE
